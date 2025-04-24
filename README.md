@@ -1,4 +1,4 @@
-<code>document.write("Welcome to my github!😁")</code>
+<a href = "https://git.io/typing-svg"><img src = "https://readme-typing-svg.herokuapp.com?font=code&weight=200&size=18&duration=4500&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=document.write(%22Welcome+to+my+github!%F0%9F%98%81%22)" alt="Typing SVG" /></a>
 
 <hr>
 
@@ -8,7 +8,7 @@
 
 <hr>
 
-### Technologies 🖥️
+### Technology Stack 🖥️
 
 <div style="display: inline_blonk" align="center"><br/>
   <img align = "center" alt = "Jonathan-HTML" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
