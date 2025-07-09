@@ -11,15 +11,19 @@
 ### Technology Stack 🖥️
 
 <div style="display: inline_blonk" align="center"><br/>
-  <img align = "center" alt = "Jonathan-HTML" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align = "center" alt = "Jonathan-CSS" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align = "center" alt = "Jonathan-JavaScript" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align = "center" alt = "Jonathan-NodeJs" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img align = "center" alt = "Jonathan-C" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img align = "center" alt = "Jonathan-Php" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  <img align = "center" alt = "Jonathan-Postgresql" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img align = "center" alt = "HTML" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align = "center" alt = "CSS" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align = "center" alt = "JavaScript" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align = "center" alt = "Postgresql" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img align = "center" alt = "Git" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
+<hr>
+
+### Technologies Under Study 👾
+<div style="display: inline_blonk" align="center"><br/>
+ <img align = "center" alt = "Java" heigth="60" width="80" src="https://github.com/Erme90/Erme90/assets/79375451/45d50ae0-2c0e-42c8-b54c-0a0b99aac4e5"/>
+</div>
 <hr>
 
 ### Contacts 📲
