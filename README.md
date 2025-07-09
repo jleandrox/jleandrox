@@ -1,4 +1,4 @@
-<a href = "https://git.io/typing-svg"><img src = "https://readme-typing-svg.herokuapp.com?font=code&weight=200&size=18&duration=4500&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=document.write(%22Welcome+to+my+GitHub!%F0%9F%98%81%22)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial+helvica&weight=100&size=15&duration=4900&pause=700&color=F7F7F7&width=435&separator=%3C&lines=System.out.println(%22Welcome+to+my+GitHub!+%F0%9F%98%81%22);" alt="Typing SVG" /></a>
 
 <hr>
 
